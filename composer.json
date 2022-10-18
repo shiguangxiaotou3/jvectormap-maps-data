@@ -9,5 +9,7 @@
   "authors": [{
     "name": "shiguangxiaotou "
   }],
-  "require": {}
+  "require": {
+    "php": ">=5.0"
+  }
 }
