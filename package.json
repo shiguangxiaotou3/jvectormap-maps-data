@@ -1,6 +1,6 @@
 {
   "name": "jvectormap-maps-data",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "jvectormap 地图数据整理",
   "main": "dist/index.js",
   "directories": {
