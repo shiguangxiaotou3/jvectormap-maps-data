@@ -1,7 +1,7 @@
 {
   "name": "shiguangxiaotou/jvectormap-maps-data",
   "description": "jvectormap 地图数据整理.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "type": "library",
   "keywords": ["jvectormap", "maps", "data"],
   "homepage": "https://github.com/shiguangxiaotou3/jvectormap-maps-data",
