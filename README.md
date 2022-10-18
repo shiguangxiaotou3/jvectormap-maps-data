@@ -11,7 +11,7 @@ jVectorMap 是一个基于矢量、跨浏览器和跨平台的组件，用于在
 ```sh
 $ npm install jvectormap-maps-data
 $ git clone git@github.com:shiguangxiaotou3/jvectormap-maps-data.git
-$ composer require npm-asset/jvectormap-maps-data
+$ composer require shiguangxiaotou/jvectormap-maps-data
 ```
 
 使用:
